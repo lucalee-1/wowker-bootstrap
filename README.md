@@ -1,4 +1,4 @@
-# A single page website made with Bootstrap for a fictional app ("WOWker') that allows users to find dogs to walk. 
+## Single page website made with Bootstrap. 
 <p align="center">
   <img src="images\webpage_screenshot.png" />
 </p>
